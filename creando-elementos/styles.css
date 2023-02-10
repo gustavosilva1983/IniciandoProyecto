@@ -1,0 +1,12 @@
+.ordenada{
+	background: yellow;
+}
+.noOrdenada{
+	color: white ;
+	background: black;
+
+}
+
+#id-personalizado{
+	color: red;
+}
