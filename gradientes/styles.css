@@ -1,0 +1,189 @@
+.firmamento{
+	width: 1400px;
+	height: 400px;
+	background-color: black;
+	position: fixed;
+}
+.luna{
+	width: 60px;
+	height: 60px;
+	background-color: white;
+	position: fixed;
+	top: 30px;
+	right: 30px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star1{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 30px;
+	right: 500px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star2{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 50px;
+	right: 100px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star3{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 250px;
+	right: 200px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star4{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 80px;
+	right: 400px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star5{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 104px;
+	right: 387px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star6{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 70px;
+	right: 180px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star7{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 20px;
+	right: 620px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star8{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 69px;
+	right: 500px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star9{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 180px;
+	right: 20px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.star10{
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	position: fixed;
+	top: 290px;
+	right: 70px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px 3px ghostwhite;
+}
+.suelo{
+	width: 1400px;
+	height: 400px;
+	background-color: green;
+	position: fixed;
+	top: 50%;
+}
+.cara {
+	width: 400px;
+	height: 400px;
+	position: relative;
+	background-color: darkblue;
+	box-shadow: 10px 10px 20px 20px #707B7C;
+	border-radius: 20px;
+}
+.ojo {
+	width:100px;
+	height: 100px;
+	background-color: beige;
+	position: absolute;
+	top: 100px;
+	right: 0px;
+	border-radius: 60px;
+}
+.pupila {
+	width:20px;
+	height: 20px;
+	background-color: black;
+	position: absolute;
+	top: 40px;
+	right: 0;
+	border-radius: 60px;
+}
+.boca {
+	width: 150px;
+	height: 20px;
+	background-color: navajowhite;
+	position: absolute;
+	top: 320px;
+	right: 0;
+	border-radius: 0px 0px 0px 20px;
+}
+.cuerpo{
+	width: 300px;
+	height: 500px;
+	position: relative;
+	box-shadow: 10px 10px 15px 10px #707B7C;
+	border-radius: 10px;
+	background: linear-gradient(60deg, red 20%, blue 30%, yellow 50% );
+}
+.brazo{
+	width: 200px;
+	height: 50px;
+	position: relative;
+	background-color: red;
+	top: 200px;
+	left: 200px;
+	box-shadow: 10px 10px 15px 10px #707B7C;
+	border-radius: 10px;
+}
+.title1{
+	width: 400px;
+	height: 100px;
+	text-align: center;
+	border: 3px double skyblue;
+	color: whitesmoke;
+	position: fixed;
+	top: 50%;
+	right: 100px;
+	box-shadow: 10px 10px 15px 5px #707B7C;
+	text-shadow: 2px 2px 20px red;
+	border-radius: 5px;
+}	
